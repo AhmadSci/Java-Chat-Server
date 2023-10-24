@@ -34,13 +34,13 @@ This is a simple chat application that allows multiple clients to connect to a s
 Compile:
 
 ```
-javac Server.java Client.java ClinetOne.java ClinetTwo.java
+javac Server.java Client.java ClinetOne.java ClinetTwo.java ServerMain.java
 ```
 
 Run server:
 
 ```
-java Server
+java ServerMain
 ``` 
 
 Run each client in separate terminals:
