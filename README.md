@@ -51,3 +51,8 @@ java ClinetTwo
 ```
 
 Clients can then start sending messages which will be broadcasted to all clients.
+
+# Screenshots
+![Server](/p/1.png)
+![Server](/p/2.png)
+![Server](/p/3.png)
